@@ -51,7 +51,7 @@
         <dep.antlr.version>4.11.1</dep.antlr.version>
         <dep.airlift.version>219</dep.airlift.version>
         <dep.packaging.version>${dep.airlift.version}</dep.packaging.version>
-        <dep.aws-sdk.version>1.12.172</dep.aws-sdk.version>
+        <dep.aws-sdk.version>1.12.321</dep.aws-sdk.version>
         <dep.okhttp.version>3.14.9</dep.okhttp.version>
         <dep.joda.version>2.10.13</dep.joda.version>
         <dep.jsonwebtoken.version>0.11.2</dep.jsonwebtoken.version>
@@ -64,8 +64,8 @@
         <dep.duct-tape.version>1.0.8</dep.duct-tape.version>
         <dep.coral.version>2.0.77</dep.coral.version>
         <dep.confluent.version>5.5.2</dep.confluent.version>
-        <dep.casandra.version>4.14.0</dep.casandra.version>
-        <dep.minio.version>7.1.4</dep.minio.version>
+        <dep.casandra.version>4.15.0</dep.casandra.version>
+        <dep.minio.version>8.4.4</dep.minio.version>
         <dep.iceberg.version>0.14.1</dep.iceberg.version>
         <dep.spotbugs-annotations.version>4.7.2</dep.spotbugs-annotations.version>
 
@@ -1456,7 +1456,7 @@
             <dependency>
                 <groupId>mysql</groupId>
                 <artifactId>mysql-connector-java</artifactId>
-                <version>8.0.22</version>
+                <version>8.0.31</version>
             </dependency>
 
             <dependency>
