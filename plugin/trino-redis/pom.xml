@@ -92,7 +92,7 @@
         <dependency>
             <groupId>redis.clients</groupId>
             <artifactId>jedis</artifactId>
-            <version>4.1.1</version>
+            <version>jedis-3.6.2</version>
         </dependency>
 
         <!-- used by tests but also needed transitively -->
