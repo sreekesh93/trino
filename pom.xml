@@ -898,7 +898,7 @@
             <dependency>
                 <groupId>io.airlift.discovery</groupId>
                 <artifactId>discovery-server</artifactId>
-                <version>1.30</version>
+                <version>1.32</version>
             </dependency>
 
             <dependency>
